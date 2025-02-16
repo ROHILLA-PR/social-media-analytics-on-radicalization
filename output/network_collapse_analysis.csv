@@ -1,0 +1,5 @@
+Metric,Before Removal,After Removal
+Total Nodes,5386,4919
+Total Edges,15652,9938
+Number of Communities,584,964
+Largest Community Size,1298,1298

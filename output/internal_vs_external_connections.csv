@@ -1,0 +1,21 @@
+Node A,Node B,Jaccard Coefficient,Adamic-Adar,Preferential Attachment,Avg Score,ID_A,Ideology_A,Decade_A,In_PIRUS_A,ID_B,Ideology_B,Decade_B,In_PIRUS_B,Connection Type
+6412,10001,0.0,0.0,380.0,126.66666666666667,6412,Jihadist,2010s,Yes,10001,Anti-Abortion,2020s,Yes,External
+4461,10001,0.0,0.0,380.0,126.66666666666667,4461,White Supremacist/Xenophobic,1960s,Yes,10001,Anti-Abortion,2020s,Yes,External
+10001,3702,0.0,0.0,380.0,126.66666666666667,10001,Anti-Abortion,2020s,Yes,3702,White Supremacist/Xenophobic,2000s,Yes,External
+3604,10001,0.0,0.0,380.0,126.66666666666667,3604,White Supremacist/Xenophobic,2000s,Yes,10001,Anti-Abortion,2020s,Yes,External
+6412,3702,0.0,0.0,361.0,120.33333333333333,6412,Jihadist,2010s,Yes,3702,White Supremacist/Xenophobic,2000s,Yes,External
+4461,3702,0.0,0.0,361.0,120.33333333333333,4461,White Supremacist/Xenophobic,1960s,Yes,3702,White Supremacist/Xenophobic,2000s,Yes,Internal
+6412,4461,0.0,0.0,361.0,120.33333333333333,6412,Jihadist,2010s,Yes,4461,White Supremacist/Xenophobic,1960s,Yes,External
+3604,6412,0.0,0.0,361.0,120.33333333333333,3604,White Supremacist/Xenophobic,2000s,Yes,6412,Jihadist,2010s,Yes,External
+3604,4461,0.0,0.0,361.0,120.33333333333333,3604,White Supremacist/Xenophobic,2000s,Yes,4461,White Supremacist/Xenophobic,1960s,Yes,Internal
+10001,4830,0.0,0.0,360.0,120.0,10001,Anti-Abortion,2020s,Yes,4830,Other,1980s,No,External
+4819,10001,0.0,0.0,360.0,120.0,4819,Other,1980s,No,10001,Anti-Abortion,2020s,Yes,External
+4815,10001,0.0,0.0,360.0,120.0,4815,Other,1980s,No,10001,Anti-Abortion,2020s,Yes,External
+10001,5035,0.0,0.0,360.0,120.0,10001,Anti-Abortion,2020s,Yes,5035,White Supremacist/Xenophobic,1960s,Yes,External
+4817,10001,0.0,0.0,360.0,120.0,4817,Other,1980s,No,10001,Anti-Abortion,2020s,Yes,External
+4831,10001,0.0,0.0,360.0,120.0,4831,Other,1980s,No,10001,Anti-Abortion,2020s,Yes,External
+10001,4813,0.0,0.0,360.0,120.0,10001,Anti-Abortion,2020s,Yes,4813,Other,1980s,No,External
+10001,4829,0.0,0.0,360.0,120.0,10001,Anti-Abortion,2020s,Yes,4829,Other,1980s,No,External
+10001,4816,0.0,0.0,360.0,120.0,10001,Anti-Abortion,2020s,Yes,4816,Other,1980s,No,External
+10001,4826,0.0,0.0,360.0,120.0,10001,Anti-Abortion,2020s,Yes,4826,Other,1980s,No,External
+10001,4825,0.0,0.0,360.0,120.0,10001,Anti-Abortion,2020s,Yes,4825,Other,1980s,No,External

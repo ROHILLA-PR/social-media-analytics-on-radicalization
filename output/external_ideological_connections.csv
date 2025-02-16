@@ -1,0 +1,8 @@
+Ideology_A,Ideology_B,External Connection Count
+Anti-Abortion,Other,6
+Other,Anti-Abortion,4
+Anti-Abortion,White Supremacist/Xenophobic,2
+Jihadist,White Supremacist/Xenophobic,2
+White Supremacist/Xenophobic,Anti-Abortion,2
+Jihadist,Anti-Abortion,1
+White Supremacist/Xenophobic,Jihadist,1
