@@ -1,0 +1,80 @@
+
+# Extremist Network Analysis & Social Graph Modeling
+
+
+## Project Overview
+
+This project analyzes extremist networks using graph theory and social network analysis to understand radicalization pathways, ideological alignment, and extremist resilience. Through the application of bipartite networks, K-core decomposition, community detection, and link prediction techniques, we identify key influencers, ideological clusters, and potential growth patterns among extremist groups. Our analysis leverages Python, Pandas, NetworkX, and Matplotlib to study how extremist movements form, spread, and sustain themselves over time.
+
+## Key Features
+
+- **Bipartite Network Analysis**  
+  - Build networks connecting Extremists ↔ Ideologies and Extremists ↔ Plots  
+  - Project one-mode extremist networks to study direct interactions
+
+- **Extremist Network Projection & Clique Analysis**  
+  - Create an Extremist-to-Extremist Graph  
+  - Detect fully connected cliques (radical cells working together)  
+  - Identify the most embedded extremist groups
+
+- **K-Core Analysis**  
+  - Compute K-core values to pinpoint highly resilient extremist hubs  
+  - Discover extremists that act as network stabilizers
+
+- **Community Detection & Radicalization Patterns**  
+  - Use Louvain Modularity and Connected Components to uncover ideological clusters  
+  - Identify ideological "bridge extremists" that connect disparate groups
+
+- **Network Collapse & Key Influencer Identification**  
+  - Model the impact of removing high-degree and high-betweenness extremists  
+  - Determine network resilience factors
+
+- **Link Prediction for Future Extremist Growth**  
+  - Apply Jaccard Coefficient, Adamic-Adar, and Preferential Attachment methods  
+  - Predict potential new radical connections for early intervention
+
+## Dataset Sources
+
+This project is based on data from:
+- **PIRUS V5 Dataset** – Individual-level data on radicalized extremists  
+- **SoNAR Nodes & Edges** – Network interactions between extremists  
+- **PIRUS Plots Dataset** – Data on planned extremist plots  
+
+These datasets were processed and analyzed using Python, Pandas, and NetworkX.
+
+## How to Run the Project
+
+you can run the analysis interactively using the `Radicalization.ipynb` Jupyter Notebook.
+
+## Results & Findings
+
+- **Large Extremist Clusters:**  
+  Disrupting a few individuals may not fragment the overall network due to highly connected clusters.
+
+- **Resilient K-Core Extremists:**  
+  Key extremist hubs are deeply embedded and play a critical role in maintaining network stability.
+
+- **Ideological Bridging:**  
+  Community detection reveals that many extremist plots involve cross-ideological collaboration, with "bridge extremists" connecting diverse groups.
+
+- **Predictable Future Connections:**  
+  Early intervention strategies can be designed based on link prediction, potentially disrupting recruitment and radicalization pathways.
+
+## Future Enhancements
+
+- **Machine Learning Integration:**  
+  Use ML models to classify extremists based on network features.
+
+- **Temporal Network Analysis:**  
+  Track the evolution of extremist groups over time.
+
+- **Social Media Integration:**  
+  Incorporate real-time social media data for dynamic monitoring of radicalization trends.
+
+## License
+
+This project is for academic and research purposes only and is not intended for operational use.
+
+## Contribute
+
+If you find this project useful, feel free to fork, contribute, and star the repository. Contributions, issues, and feature requests are welcome!
