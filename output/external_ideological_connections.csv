@@ -1,8 +1,27 @@
 Ideology_A,Ideology_B,External Connection Count
-Anti-Abortion,Other,6
-Other,Anti-Abortion,4
-Anti-Abortion,White Supremacist/Xenophobic,2
-Jihadist,White Supremacist/Xenophobic,2
-White Supremacist/Xenophobic,Anti-Abortion,2
-Jihadist,Anti-Abortion,1
-White Supremacist/Xenophobic,Jihadist,1
+Black Nationalist/Separatist,Other,41
+Militia/Sovereign Citizen/Anti-Government,White Supremacist/Xenophobic,36
+Other,Black Nationalist/Separatist,36
+Black Nationalist/Separatist,Anarchist/Anti-Capitalist,33
+Anarchist/Anti-Capitalist,Black Nationalist/Separatist,29
+White Supremacist/Xenophobic,Militia/Sovereign Citizen/Anti-Government,25
+Other,Anarchist/Anti-Capitalist,24
+Anarchist/Anti-Capitalist,Other,21
+Conspiracy Theory,White Supremacist/Xenophobic,18
+Militia/Sovereign Citizen/Anti-Government,Conspiracy Theory,16
+Environmental/Animal Rights,Other,15
+Conspiracy Theory,Militia/Sovereign Citizen/Anti-Government,15
+Other,Environmental/Animal Rights,9
+Anti-Abortion,Militia/Sovereign Citizen/Anti-Government,9
+Other,White Supremacist/Xenophobic,8
+Environmental/Animal Rights,Anarchist/Anti-Capitalist,7
+Militia/Sovereign Citizen/Anti-Government,Anti-Abortion,5
+Anarchist/Anti-Capitalist,Environmental/Animal Rights,5
+White Supremacist/Xenophobic,Other,5
+Other,Militia/Sovereign Citizen/Anti-Government,3
+White Supremacist/Xenophobic,Anti-Abortion,3
+Jihadist,Black Nationalist/Separatist,2
+White Supremacist/Xenophobic,Conspiracy Theory,2
+White Supremacist/Xenophobic,Jihadist,2
+Jihadist,White Supremacist/Xenophobic,1
+White Supremacist/Xenophobic,Black Nationalist/Separatist,1
